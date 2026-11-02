@@ -1,0 +1,58 @@
+{
+    "id": 1,
+    "title": "Quantum Echoes",
+    "description": "Deep dive into the modular synthesis techniques that birthed the Quantum Echoes soundscape.",
+    "coverUrl": "https://dummyimage.com/860x420/222/00ffaa&text=Quantum+Echoes",
+    "rating": "4.9/5",
+    "creator": "The Nebula Collective",
+    "tracks": [
+        {
+            "id": 101,
+            "title": "Quantum Flux",
+            "duration": "04:15",
+            "description": "Initial experimental signals from sector V.",
+            "imageurl": "https://dummyimage.com/200x200/333/00ffaa",
+            "url": "https://example.com/audio1.mp3",
+            "artistid": 5,
+            "artist": "Nova Pulse",
+            "gnreid": 1,
+            "gnre": "Cosmic"
+        },
+        {
+            "id": 102,
+            "title": "Echo Resonance",
+            "duration": "05:32",
+            "description": "Harmonic vibrations mapping the outer ring.",
+            "imageurl": "https://dummyimage.com/200x200/444/00ffaa",
+            "url": "https://example.com/audio2.mp3",
+            "artistid": 5,
+            "artist": "Nova Pulse",
+            "gnreid": 1,
+            "gnre": "Cosmic"
+        },
+        {
+            "id": 103,
+            "title": "Void Frequency",
+            "duration": "06:10",
+            "description": "Dark matter static recorded in isolation.",
+            "imageurl": "https://dummyimage.com/200x200/555/00ffaa",
+            "url": "https://example.com/audio3.mp3",
+            "artistid": 6,
+            "artist": "Eclipse Sequence",
+            "gnreid": 2,
+            "gnre": "Dark Ambient"
+        },
+        {
+            "id": 104,
+            "title": "Neon Horizon",
+            "duration": "03:45",
+            "description": "Upbeat synth arpeggios defining morning light.",
+            "imageurl": "https://dummyimage.com/200x200/666/00ffaa",
+            "url": "https://example.com/audio4.mp3",
+            "artistid": 6,
+            "artist": "Eclipse Sequence",
+            "gnreid": 3,
+            "gnre": "Synthwave"
+        }
+    ]
+}

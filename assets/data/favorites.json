@@ -1,0 +1,14 @@
+[
+  {
+    "id": 3,
+    "title": "Hard Techno",
+    "duration": "01:08:03",
+    "description": "Hard techno Again",
+    "imageurl": "https://zubamtkdceiglocydfnk.supabase.co/storage/v1/object/public/images/hardtechno3.jpg",
+    "url": "https://download1350.mediafire.com/8hnaihjgefcgJ3_w1UI5xY7xsUEwblkLcneftZyiwc1AXs3x9sHQXPxOr9LqZVgfwMbfc6Zg5kysvhhD17UXWaquFPwpDBW36UF1DGVkMcwpaP71yEuATm474ZXf3-xz14NMlMUL5ezbD9NNxZl8OFXJWxBU9RVQzEWcNcXXT8dVQNw/8is55611i51271x/HardTechno3.wav",
+    "artistid": 1,
+    "artist": "DJ DeadLine",
+    "gnreid": 4,
+    "gnre": "Hard Techno"
+  }
+]
